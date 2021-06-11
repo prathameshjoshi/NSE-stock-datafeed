@@ -34,3 +34,6 @@ NSE stocks datafeed for multiple timeframe
 - `daily` - `symbol_daily.csv`
 - `weekly` - `symbol_weekly.csv`
 - `monthly` - `symbol_monthly.csv`
+
+# Note
+Data will be updated every trading day after market hours 
