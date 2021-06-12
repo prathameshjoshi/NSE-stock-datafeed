@@ -1,4 +1,16 @@
 nse_stock_1_min_data.py
+nse_stock_3_min_data.py
+nse_stock_5_min_data.py
+nse_stock_15_min_data.py
+nse_stock_30_min_data.py
+nse_stock_34_min_data.py
+nse_stock_1_hour_data.py
+nse_stock_2_hour_data.py
+nse_stock_3_hour_data.py
+nse_stock_4_hour_data.py
+nse_stock_daily_data.py
+nse_stock_weekly_data.py
+nse_stock_monthly_data.py
 credentials.py
 githubcommit.py
 __pycache__
