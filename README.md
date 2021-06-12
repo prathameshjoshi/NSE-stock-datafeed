@@ -36,4 +36,4 @@ NSE stocks datafeed for multiple timeframe
 - `monthly` - `symbol_monthly.csv`
 
 # Note
-Data will be updated every trading day after market hours
+Data will be updated every trading day after market hours 
