@@ -37,4 +37,5 @@ NSE stocks datafeed for multiple timeframe
 
 # Note
 Data will be updated every trading day after market hours
+
 Some illiquid stocks removed from the list
